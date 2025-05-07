@@ -40,3 +40,7 @@ http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/2214.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe0f12834d244b02873c6faf4238ffc9:da329ca93cbe1c816a43c14b09b8dd6d
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
+#EXTINF:-1 tvg-id="WarnerTV" tvg-name="TH - WARNER" tvg-logo="https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png" group-title="THAILAND", Warners TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00a6eeb6a8623e7f5dd0de890fc55f52:57349ce17aa9f5692ad2fb7d9cdb01c7
+https://49-231-37-235-rewriter.ais-vidnt.com/ais/play/origin/live/eds/X105/DASH/X105.mpd
