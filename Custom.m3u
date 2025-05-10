@@ -85,3 +85,7 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5053/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key=5d600eb70944d681c26c1f48fbe61f10:796139ba05a2ab425f978c7fd98b4372
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
+#EXTINF:-1 tvg-id="ZeeBioskop.id" tvg-logo="",Zee Bioskop
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+http://202.147.193.244/live/eds/ZeeBIOSKOP/sa_dash/ZeeBIOSKOP.mpd|Referer=https://www.visionplus.id/
