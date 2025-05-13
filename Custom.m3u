@@ -118,50 +118,69 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2303/default_ott.mpd
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"OPv7OlbkD/ksnfisvLqe9g", "kid":"/x/r1wGNDdcRYB55Xg1iEA" } ], "type":"temporary" }
 #EXTINF:-1 tvg-id="401.astro" tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/HitsMoviesV2.png" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogo.png" group-title="Astro",Hits Movies    
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
-
-#EXTINF: -1 tvg-logo="" group-title="SonyLivCustom", SONY TEN 1
-https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+#EXTINF: -1 tvg-logo="" group-title="SonyLivCustom", Sony Sports TEN 1
+https://dai.google.com/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", Sony Sports TEN 1 HD
 https://dai.google.com/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 #https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SonyLivCustom", SONY TEN 2
-https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+#EXTINF: -1 tvg-logo="" group-title="SonyLivCustom", Sony Sports TEN 2
+https://dai.google.com/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", Sony Sports TEN 2 HD
 https://dai.google.com/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
 #https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SonyLivCustom", SONY TEN 3
-https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#EXTINF: -1 tvg-logo="" group-title="SonyLivCustom", Sony Sports TEN 3
+https://dai.google.com/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", Sony Sports TEN 3 HD
 https://dai.google.com/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 #https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SonyLivCustom", SONY TEN 4
-https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+#EXTINF: -1 tvg-logo="" group-title="SonyLivCustom", Sony Sports TEN 4
+https://dai.google.com/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", Sony Sports TEN 4 HD
 https://dai.google.com/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 #https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
-#EXTINF: -1 tvg-logo="" group-title="SonyLivCustom", SONY TEN 5
-https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#EXTINF: -1 tvg-logo="" group-title="SonyLivCustom", Sony Sports TEN 5
+https://dai.google.com/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", Sony Sports TEN 5 HD
 https://dai.google.com/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 #https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", SONY BBC EARTH HD
+#EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", Sony SAB HD
+https://dai.google.com/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", Sony PAL
+https://dai.google.com/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", Sony YAY
+https://dai.google.com/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", Sony AATH
+https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", Sony Marathi
+https://dai.google.com/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/-_w3Jbq3QoW-mFCM2YIzxA/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", Sony BBC Earth HD
 https://dai.google.com/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
 #https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", Sony Aath
-https://dai.google.com/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", SET HD
-https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", Sony SAB HD
-https://pubads.g.doubleclick.net/ssai/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", Sony PAL
-https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", Sony YAY
-https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", Sony MAX HD
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", Sony PIX HD
+https://dai.google.com/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", Sony WAH
-https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", Sony PIX HD
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", Sony PIX HD
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
+https://dai.google.com/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", SET HD
+https://dai.google.com/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/HgaB-u6rSpGx3mo4Xu3sLw/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", Sony MAX
+https://dai.google.com/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", Sony MAX HD
+https://dai.google.com/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", Sony MAX2
+https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
