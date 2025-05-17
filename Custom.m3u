@@ -61,6 +61,10 @@ https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+#EXTINF:-1 tvg-id="romedynow.in" tvg-logo="" group-title="Movies", Romedy Now
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BY3shFvTQBeKOI7dEEoBXg", "kid":"QPAZuGJB0j7wdWM/1/HpJw" } ], "type":"temporary" }
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #EXTINF:-1 tvg-id="251.astro" tvg-logo="https://linear-poster.astro.com.my/prod/logo/ZeeCinemaHD.png" group-title="Movies", Zee Cinema HD (Astro)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=db96483900762e233aa7830457a0d310:20f392e5a1021be68fc32bcdb9ec3ad4
