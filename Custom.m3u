@@ -237,11 +237,9 @@ https://dai.google.com/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 #https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
 #https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", Sony KAL 1
+#EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", Sony KAL
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="SonyLivCustom", Sony KAL 2
-https://spt-sonykal-1-us.xumo.wurl.tv/playlist.m3u8
+#https://spt-sonykal-1-us.xumo.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Xiaomi", Mango TV
 https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
