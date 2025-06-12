@@ -256,3 +256,6 @@ https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="GB3700007OZ" tvg-name="&TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700007OZ_20250107T031134SQUARE.png" group-title="gb - TV Series" tvg-chno="4245" catchup="default" catchup-source="?playbackStart={utc}",&TV HD UK
 https://joaquinito01.es/sam/GB3700007OZ.m3u8
 #https://jmp2.uk/sam-GB3700007OZ.m3u8
+
+#EXTINF:-1 tvg-id="B4U.Movies.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="",B4U Movies
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
