@@ -262,3 +262,7 @@ https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-id="ts" tvg-logo="https://i.imgur.com/bEMUpHZ.png" group-title="Movies",Xumo Bollywood Cinema
 https://dbrb49pjoymg4.cloudfront.net/10001/99991756/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991756
 #https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991756
+
+#EXTINF:-1  tvg-name="Desi Play TV" tvg-id="661e8d4a23e24f00081e7cc5" tvg-logo="https://images.pluto.tv/channels/661e8d4a23e24f00081e7cc5/colorLogoPNG.png" tvg-chno="" group-title="",Desi Play TV
+https://jmp2.uk/plu-661e8d4a23e24f00081e7cc5.m3u8
+#https://jmp2.uk/plu-63c7c122808b7400075c070f.m3u8
