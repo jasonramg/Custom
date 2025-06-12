@@ -254,8 +254,10 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="GB3700007OZ" tvg-name="&TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700007OZ_20250107T031134SQUARE.png" group-title="gb - TV Series" tvg-chno="4245" catchup="default" catchup-source="?playbackStart={utc}",&TV HD UK
-https://joaquinito01.es/sam/GB3700007OZ.m3u8
-#https://jmp2.uk/sam-GB3700007OZ.m3u8
+https://jmp2.uk/sam-GB3700007OZ.m3u8
 
 #EXTINF:-1 tvg-id="B4U.Movies.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="",B4U Movies
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ts" tvg-logo="https://i.imgur.com/bEMUpHZ.png" group-title="Movies",Bollywood Movies
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991756
