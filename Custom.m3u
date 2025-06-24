@@ -279,3 +279,6 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991756/hls/master.m3u8?includeAsset
 https://amg00857-amg00857c1-rakuten-us-4656.playouts.now.amagi.tv/playlist/amg00857-viacom18mediaprivatelimitedfast-desiplaytv-rakutenus/playlist.m3u8
 #https://jmp2.uk/plu-661e8d4a23e24f00081e7cc5.m3u8
 #https://jmp2.uk/plu-63c7c122808b7400075c070f.m3u8
+
+#EXTINF:-1 group-logo="https://img.icons8.com/ios11/512/FFFFFF/github.png" group-title="Git" tvg-logo="", DD Sports
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
