@@ -289,7 +289,7 @@ https://imranapk.site/TG@RANAPKX73/TOXFE/play.php?id=sony_entertainment|Referer=
 https://softbd24.com/new/toffee/live.php?id=f76c7eb00da0&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=f76c7eb00da0&e=.m3u8
 https://imranapk.site/TG@RANAPKX73/TOXFE/play.php?id=ten_cricket
 
-#EXTINF:-1 group-logo="https://img.icons8.com/ios11/512/FFFFFF/github.png" group-title="Git" tvg-logo="https://i.ibb.co/KzXCnTKy/Ten-Cricket.png", Ten Cricket
+#EXTINF:-1 group-logo="https://img.icons8.com/ios11/512/FFFFFF/github.png" group-title="All Working Channels" tvg-logo="https://i.ibb.co/KzXCnTKy/Ten-Cricket.png", Ten Cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; lontong-yuhu6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
@@ -301,3 +301,18 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-logo="https://i.ibb.co/tpYddsLq/pngimg-com-tv-PNG39259.png" group-title="All Working Channels" tvg-logo="", Shemaroo Bollywood 2
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/tpYddsLq/pngimg-com-tv-PNG39259.png" group-title="All Working Channels" tvg-logo="", Showbox
+https://epiconvh.akamaized.net/live/showbox/master.m3u8
+#EXTINF:-1 group-logo="https://i.ibb.co/tpYddsLq/pngimg-com-tv-PNG39259.png" group-title="All Working Channels" tvg-logo="", Gubbare
+https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+#EXTINF:-1 group-logo="https://i.ibb.co/tpYddsLq/pngimg-com-tv-PNG39259.png" group-title="All Working Channels" tvg-logo="", Nazara
+https://epiconvh.akamaized.net/live/nazara/master.m3u8
+#EXTINF:-1 group-logo="https://i.ibb.co/tpYddsLq/pngimg-com-tv-PNG39259.png" group-title="All Working Channels" tvg-logo="", Ishara
+https://epiconvh.akamaized.net/live/ishaara/master.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/tpYddsLq/pngimg-com-tv-PNG39259.png" group-title="All Working Channels" tvg-logo="", Only Music
+https://livestream.unlimitedcdn.com/onlymusic/index.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/tpYddsLq/pngimg-com-tv-PNG39259.png" group-title="All Working Channels" tvg-logo="", TeluguOne TV
+https://jmp2.uk/sam-IN3000001V5.m3u8
