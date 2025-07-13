@@ -4,21 +4,21 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56a1d581798a3f3c8b33dd92875b4f03:7859bd1331cb2c7ce323293e3b2db6e4
-#EXTINF:-1 type="movie",Bhaiya Jee
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/BHAIYYA_JI_POSTER.jpeg" type="movie",Bhaiya Jee
 https://mediacloudfront.zee5.com/drm1/titanfile/dash/MOVIES/4K/ATMOS/BHAIYAJI/BHAIYAJI_4K_CROSS_PROMO_GYAARA_GYAARA_hi_4f9b7c36a89c32a737dbeda7cd9d4cd8/manifest-connected.mpd?c3.ri=6921309177427624320
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=785ab7573f0032dbae2a1ed021657f75:e35650a3facdc46ca5e5cc0d9d03b641
-#EXTINF:-1 type="movie",Sam Bahadur
+#EXTINF:-1 tvg-logo="https://cdn.zeebiz.com/sites/default/files/sam.png" type="movie",Sam Bahadur
 https://mediacloudfront.zee5.com/drm1/titanfile/dash/MOVIES/V2PRIME/4K/ATMOS/SAM_BAHADUR/SAM_BAHADUR_4K_15012024_hi_ce3bf342a1a084e007dbd6555abf5519/manifest.mpd?c3.ri=6895413479811410710
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=74b5352e0c7746ddbe097c36cc1491d8:b8e73bfe5d8092a16550f9d6e7905fa4
-#EXTINF:-1 type="movie",Sirf Ek Bandaa Kafi Hai
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/30/Bandaa_Official_Poster.jpg" type="movie",Sirf Ek Bandaa Kafi Hai
 https://mediacloudfront.zee5.com/drm1/elemental/dash/MOVIES/MULTI_AUDIO_DIFF/4K/ATMOS/SIRF_EK_BANDAA_KAFI_HAI/SIRF_EK_BANDAA_KAFI_HAI_4K_06062023_hi_bcbb38378e16a6870e12d5869955dfaa/manifest-connected.mpd?c3.ri=6904139204592757406
 
 #EXTINF:-1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/7f8626c8f553aa648c0a9f99952ce369/en/2x3/312x468/test_pic1738931102928.webp" type="movie",CHHORII_2021
