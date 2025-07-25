@@ -282,12 +282,12 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinemahd/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=812411cba8bc42c79eb2b19cd78ad3f3:468a0b8d3d5d42d8a5c41bb875390a74
-#EXTINF:-1 tvg-id="ts64" tvg-logo="" group-title="Git",Zee Anoml Cinema
+#EXTINF:-1 tvg-id="ts64" tvg-logo="" group-title="Git",Zee Anmol Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmolcinema/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ed197e7253c04946903f03bad9afac91:99ebb8683ea74b70a9fda1cbdc2cc1b4
-#EXTINF:-1 tvg-id="korean-drama-active" tvg-logo="" group-title="Git",Korean Drama Active
+#EXTINF:-1 tvg-id="korean-drama-active" tvg-logo="" group-title="Git",KOREAN DRAMA ACTIVE
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Koreandramas2/default/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -420,13 +420,13 @@ https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/gesdwrdncn/out/v1/79e752f
 #EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="",Disney Channel HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=282634&extension=m3u8
 
-#EXTINF:-1 tvg-ID="FX" group-title="Git" tvg-logo="",FX
+#EXTINF:-1 tvg-ID="FX" group-title="Git" tvg-logo="",FX Networks East Coast
 https://fl6.moveonjoy.com/FX/index.m3u8
 
-#EXTINF:-1 tvg-ID="FXX" group-title="Git" tvg-logo="",FXX
+#EXTINF:-1 tvg-ID="FXX" group-title="Git" tvg-logo="",FXX USA - Eastern
 https://fl6.moveonjoy.com/FXX/index.m3u8
 
-#EXTINF:-1 tvg-ID="FXM" group-title="Git" tvg-logo="",FXM
+#EXTINF:-1 tvg-ID="FXM" group-title="Git" tvg-logo="",FX Movie Channel
 https://fl6.moveonjoy.com/FX_MOVIE/index.m3u8
 
 #EXTINF:-1 tvg-ID="AMC" group-title="Git" tvg-logo="",AMC
