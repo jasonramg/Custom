@@ -437,3 +437,9 @@ https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-ID="Korean TV" group-title="Git" tvg-logo="",Korean TV
 https://amg02537-skandhamediaser-koreantv-samsungin-ad-1s.amagi.tv/playlist/amg02537-skandhamediaser-koreantv-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Git",B4U PLUS SwitchTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bc03c12cf86049e0226d425f1e17910:0c04ee3442bef6ff7a473449cf0ce6f8
+http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000014030000/second-screen.mpd
