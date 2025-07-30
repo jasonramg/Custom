@@ -29,10 +29,6 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
-#EXTINF:-1 group-logo="https://img.icons8.com/ios11/512/FFFFFF/github.png" group-title="Git" tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj6CSIIfkL9aFviMkNoBon-4.png",Warner TV INDI
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdngb196.indihometv.com/atm/DASH/warner/manifest.mpd
 #EXTINF:-1 group-logo="https://img.icons8.com/ios11/512/FFFFFF/github.png" group-title="Git" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Sony_Movies_2019_%28Print%29.png/revision/latest?cb=20190917082854", Sony Movies
 http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/2214.ts
 #EXTINF:-1 group-logo="https://i.ibb.co/tpYddsLq/pngimg-com-tv-PNG39259.png" group-title="All Working Channels" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",Sony MAX SG 
@@ -338,24 +334,6 @@ https://amg00857-amg00857c1-rakuten-us-4656.playouts.now.amagi.tv/playlist/amg00
 #EXTINF:-1 group-logo="https://img.icons8.com/ios11/512/FFFFFF/github.png" group-title="Git" tvg-logo="", DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 
-#EXTINF:-1 group-logo="https://img.icons8.com/ios11/512/FFFFFF/github.png" group-title="Git" tvg-id="SET (HINDI)" tvg-logo="", SET SG
-https://xfireflix.fun/toffeeWd/live.php?id=2bec2112b890&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=2bec2112b890&e=.m3u8
-https://softbd24.com/new/toffee/live.php?id=2bec2112b890&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=2bec2112b890&e=.m3u8
-https://imranapk.site/TG@RANAPKX73/TOXFE/play.php?id=sony_entertainment|Referer=https://imranapk.site/TG@RANAPKX73/TOXFE/play.php?id=sony_entertainment
-
-#EXTINF:-1 group-logo="https://img.icons8.com/ios11/512/FFFFFF/github.png" group-title="Git" tvg-id="SET" tvg-logo="", SET
-https://xfireflix.fun/toffeeWd/live.php?id=243771d9592c&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=243771d9592c&e=.m3u8
-https://softbd24.com/new/toffee/live.php?id=243771d9592c&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=243771d9592c&e=.m3u8
-
-#EXTINF:-1 group-logo="https://img.icons8.com/ios11/512/FFFFFF/github.png" group-title="Git" tvg-id="Sony SAB" tvg-logo="", Sony SAB
-https://xfireflix.fun/toffeeWd/live.php?id=b7167fe646a4&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=b7167fe646a4&e=.m3u8
-https://softbd24.com/new/toffee/live.php?id=b7167fe646a4&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=b7167fe646a4&e=.m3u8
-
-#EXTINF:-1 group-logo="https://img.icons8.com/ios11/512/FFFFFF/github.png" group-title="Git" tvg-logo="https://i.ibb.co/KzXCnTKy/Ten-Cricket.png", Ten Cricket (Not Stable)
-https://xfireflix.fun/toffeeWd/live.php?id=f76c7eb00da0&e=.m3u8|Referer=https://xfireflix.fun/toffeeWd/live.php?id=f76c7eb00da0&e=.m3u8
-https://softbd24.com/new/toffee/live.php?id=f76c7eb00da0&e=.m3u8|Referer=https://softbd24.com/new/toffee/live.php?id=f76c7eb00da0&e=.m3u8
-https://imranapk.site/TG@RANAPKX73/TOXFE/play.php?id=ten_cricket
-
 #EXTINF:-1 group-logo="https://img.icons8.com/ios11/512/FFFFFF/github.png" group-title="All Working Channels" tvg-logo="https://i.ibb.co/KzXCnTKy/Ten-Cricket.png", Ten Cricket
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
@@ -420,26 +398,6 @@ https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/gesdwrdncn/out/v1/79e752f
 #EXTINF:-1 tvg-id="" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DISNHD_Thumbnail-v1/DISNHD_Thumbnail.png" group-title="",Disney Channel HD
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=282634&extension=m3u8
 
-#EXTINF:-1 tvg-ID="FX" group-title="Git" tvg-logo="",FX Networks East Coast
-https://fl6.moveonjoy.com/FX/index.m3u8
-
-#EXTINF:-1 tvg-ID="FXX" group-title="Git" tvg-logo="",FXX USA - Eastern
-https://fl6.moveonjoy.com/FXX/index.m3u8
-
-#EXTINF:-1 tvg-ID="FXM" group-title="Git" tvg-logo="",FX Movie Channel
-https://fl6.moveonjoy.com/FX_MOVIE/index.m3u8
-
-#EXTINF:-1 tvg-ID="AMC" group-title="Git" tvg-logo="",AMC
-https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
-
-#EXTINF:-1 tvg-ID="AMC Thrillers" group-title="Git" tvg-logo="",AMC Thrillers
-https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
-
-#EXTINF:-1 tvg-ID="Korean TV" group-title="Git" tvg-logo="",Korean TV
-https://amg02537-skandhamediaser-koreantv-samsungin-ad-1s.amagi.tv/playlist/amg02537-skandhamediaser-koreantv-samsungin/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Git",B4U PLUS SwitchTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9bc03c12cf86049e0226d425f1e17910:0c04ee3442bef6ff7a473449cf0ce6f8
-http://tr.linear.tr-cdn.etisalat.ae/linear-livewvdaf/10000000014030000/second-screen.mpd
+#EXTINF:-1 tvg-logo="" group-title="Git",NH BollyFlix
+https://jmp2.uk/sam-IN46000140Q.m3u8
+#https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
