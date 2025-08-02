@@ -440,3 +440,12 @@ https://livestream.sunnxt.com/167c40e9521b470b87b4cf921fd0e146/GeminiComedyB_IN_
 
 #EXTINF:-1 tvg-id="ETV Cinema HD" tvg-logo="" group-title="All Working Channels",ETV Cinema HD
 https://d27zlkxhgwrfgo.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264_cloud_in/index.m3u8
+
+#EXTINF:-1 tvg-id="Goldmines" tvg-logo="" group-title="All Working Channels",Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+
+#EXTINF:-1 tvg-id="Goldmines Movies" tvg-logo="" group-title="All Working Channels",Goldmines Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+
+#EXTINF:-1 tvg-id="Goldmines Bollywood" tvg-logo="" group-title="All Working Channels",Goldmines Bollywood
+https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
