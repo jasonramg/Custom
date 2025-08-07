@@ -472,3 +472,6 @@ https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="Sony One Faves" tvg-logo="" group-title="All Working Channels",Sony One Faves
 https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Miramax Movie Channel" tvg-logo="" group-title="All Working Channels",Miramax Movie Channel
+https://a70d5913cb70475b8104ec98bf35723a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-798-MIRAMAXMOVIES-TCLTV/mt/tcltv/798/hls/master/playlist.m3u8
