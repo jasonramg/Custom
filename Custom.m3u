@@ -410,8 +410,8 @@ https://otte.live.fly.ww.aiv-cdn.net/SIN/live/dash/enc/gesdwrdncn/out/v1/79e752f
 http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=282634&extension=m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Git",NH BollyFlix
-https://jmp2.uk/sam-IN46000140Q.m3u8
-#https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
+#https://jmp2.uk/sam-IN46000140Q.m3u8
+https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
