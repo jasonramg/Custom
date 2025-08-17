@@ -318,7 +318,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-logo="https://i.ibb.co/tpYddsLq/pngimg-com-tv-PNG39259.png" group-title="All Working Channels" tvg-id="" group-logo="" tvg-logo="https://dangaplay-json.s3.ap-south-1.amazonaws.com/Dangal2_16x9.jpg",Dangal 2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1 group-logo="https://i.ibb.co/tpYddsLq/pngimg-com-tv-PNG39259.png" group-title="All Working Channels" tvg-id="GB3700007OZ" tvg-name="&TV" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB3700007OZ_20250107T031134SQUARE.png" tvg-chno="4245",&TV HD UK
+#EXTINF:-1 group-logo="https://i.ibb.co/tpYddsLq/pngimg-com-tv-PNG39259.png" group-title="All Working Channels" tvg-id="GB3700007OZ" tvg-name="&TV" tvg-chno="12",&TV HD UK
 https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #https://jmp2.uk/sam-GB3700007OZ.m3u8
 
@@ -412,6 +412,9 @@ http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:C9:AF:CF&stream=282634&ex
 #EXTINF:-1 tvg-logo="" group-title="Git",NH BollyFlix
 #https://jmp2.uk/sam-IN46000140Q.m3u8
 https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-IN38000072R" tvg-id="IN38000072R" tvg-name="The Movie Club" group-title="All Working Channels" tvg-chno="92",The Movie Club
+https://jmp2.uk/stvp-IN38000072R
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=09ffaaff477d490abb4516b7e0711d35:759cc157a993e8a76ff4d675e34b5400
