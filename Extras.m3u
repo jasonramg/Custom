@@ -53,3 +53,73 @@ https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/lsda
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://a39aivottlinear-a.akamaihd.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd?encoding=segmentBase
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBO Group",HBO Plus
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=31363231393131363337323232353030:a4d49bda8cd29ba2888c732b4e7d9d63
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBOPLUSHD/default.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBO Group",HBO Pop
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:9547f9aead1237c8a3b1bf0a91ed9995
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBOPOPHD/default.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBO Group",HBO Xtreme
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=227ffaf09bec4a889e0e0988704d52a2:2fbdaa3bea0d0323ae011b318d1db716
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBOXTREMEHD/default.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBO Group",HBO 2
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=fad936249e036830aa5bef41bec05326:31bb1ee9a8d088f62b0103550c301449
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBO2HD/default.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBO Group",HBO 3
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=6039ec9b213aca913821677a28bd78ae:4b80724d0ef86bcb2c21f7999d67739d
+https://dash2.antik.sk/stream/hisi_hbo_3/playlist_cbcs.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBO Group",HBO Mundi
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=b4abbee95b69b3e80a0d141272c870db:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://live-atv-cdn.izzigo.tv/5/out/u/dash/HBOMUNDIHD/default.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBO Group",HBO Boxing
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=31363233323236373936303238393632:4b80724d0ef86bcb2c21f7999d67739d
+https://1180885077.rsc.cdn77.org/HLS/BOXINGTV.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBO Group",HBO Comedy
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=a7242a7026ff45609114ee1f3beb34dc:f2f613fb2132acd019d2a96bf1be15c1
+https://ottb.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ejmisemcpz/out/v1/9e10d2bc67434f7d95911c3e695ce087/cenc.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBO Group",HBO Zone
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=a7242a7026ff45609114ee1f3beb34dc:f2f613fb2132acd019d2a96bf1be15c1
+https://ott.udptv.net/stream/iptv/hbozone/master.m3u8?u=discord.gg/civ4&p=b48a689eecee46d3167cbb669dddcd7f2e9f877b9ed7ee2bcc5bdfd0ca930ffd
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="HBO Group",Comedy Central
+#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://www.izzigo.tv/"
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 11.O; Win64; x64) AppleWebKit/537.36 (KHTML, like Geck0) Chrome/102.0.0.0 Safari/537.37"
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=2e53f8d8a5e94bca8f9a1e16ce67df33:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://live-atv-cdn.izzigo.tv/2/out/u/dash/COMEDYCENTRALHD/default.mpd
