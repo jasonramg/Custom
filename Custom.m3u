@@ -374,12 +374,16 @@ https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd
 #https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/index.m3u8
 
 #EXTINF:-1 group-logo="https://i.ibb.co/tpYddsLq/pngimg-com-tv-PNG39259.png" group-title="All Working Channels" tvg-logo="", Shemaroo Bollywood 1
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
+https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8
+#https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
 #https://shemaroo.cdn.runn.tv/v1/vglive-sk-816088/main.m3u8
 
 #EXTINF:-1 group-logo="https://i.ibb.co/tpYddsLq/pngimg-com-tv-PNG39259.png" group-title="All Working Channels" tvg-logo="", Shemaroo Bollywood 2
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 group-logo="https://i.ibb.co/tpYddsLq/pngimg-com-tv-PNG39259.png" group-title="Git" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ATRANG/Mobile/thumbnail/d807aaf2-0076-47f1-940d-b9808a428a6c.png", Atrangii
+https://1675f2308c03470186d40624dac8396c.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/atrangii/amgplt0249.m3u8
 
 #EXTINF:-1 group-logo="https://i.ibb.co/tpYddsLq/pngimg-com-tv-PNG39259.png" group-title="All Working Channels" tvg-id="ts733" tvg-name="Showbox", Showbox
 https://epiconvh.akamaized.net/live/showbox/master.m3u8
