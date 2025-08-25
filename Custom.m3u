@@ -382,6 +382,9 @@ https://smr-runntv-blywd.cdn.runn.tv/shemaroo/stream/smrbol/playlist.m3u8
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
+#EXTINF:-1 group-logo="https://i.ibb.co/tpYddsLq/pngimg-com-tv-PNG39259.png" group-title="All Working Channels" tvg-name="Shemaroo Filmy Gaane" tvg-logo="", Shemaroo Filmigaane
+https://smr-runntv-flmgn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+
 #EXTINF:-1 group-logo="https://i.ibb.co/tpYddsLq/pngimg-com-tv-PNG39259.png" group-title="Git" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/ATRANG/Mobile/thumbnail/d807aaf2-0076-47f1-940d-b9808a428a6c.png", Atrangii
 https://1675f2308c03470186d40624dac8396c.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/atrangii/amgplt0249.m3u8
 
