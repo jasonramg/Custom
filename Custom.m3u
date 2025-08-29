@@ -30,6 +30,60 @@ https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_hbosign.mpd
 #KODIPROP:inputstream.adaptive.license_key=b207c44332844523a3a3b0469e5652d7:fe71aea346db08f8c6fbf0592209f955
 https://qp-pldt-live-grp-01-prod.akamaized.net/out/u/cg_cinemax.mpd
 
+#EXTINF:-1 group-logo="https://img.icons8.com/ios11/512/FFFFFF/github.png" group-title="Git" tvg-logo="https://i.imgur.com/OuaLV7f.png",AXN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd5d928f5d974ca4983f6e9295dfe410:3aaa001ddc142fedbb9d5557be43792f
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://qp-pldt-live-grp-06-prod.akamaized.net/out/u/cg_axn_sd.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/CxqHKUO.png" group-title="Git",Hits HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dac605bc197e442c93f4f08595a95100:975e27ffc1b7949721ee3ccb4b7fd3e5
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://qp-pldt-live-grp-04-prod.akamaized.net/out/u/hits_hd1.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/xjyDTMr.png" group-title="Git",HITS Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f56b57b32d7e4b2cb21748c0b56761a7:3df06a89aa01b32655a77d93e09e266f
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_hitsmovies.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Ck0ad9b.png" group-title="Git",HITS Now
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14439a1b7afc4527bb0ebc51cf11cbc1:92b0287c7042f271b266cc11ab7541f1
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://qp-pldt-live-grp-09-prod.akamaized.net/out/u/cg_hitsnow.mpd
+
+#EXTINF:-1 group-logo="https://img.icons8.com/ios11/512/FFFFFF/github.png" group-title="Git" tvg-logo="https://i.imgur.com/FMGTxWc.png",Cartoon Network HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_cartoonnetworkhd.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/iIVYdZP.png" group-title="Git",Nick Jr
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bab5c11178b646749fbae87962bf5113:0ac679aad3b9d619ac39ad634ec76bc8
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_nickjr.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/4o5dNZA.png" group-title="Git",Nickelodeon SD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ce58f37576b416381b6514a809bfd8b:f0fbb758cdeeaddfa3eae538856b4d72
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_nickelodeon.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vip1JIz.png" group-title="Git",BBC Earth HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=34ce95b60c424e169619816c5181aded:0e2a2117d705613542618f58bf26fc8e
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/cg_bbcearth_hd1.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/XsvAk5H.png" group-title="Git",Discovery Channel SD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d9ac48f5131641a789328257e778ad3a:b6e67c37239901980c6e37e0607ceee6
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://pilipinaslive.com//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_discovery.mpd
+
 #EXTINF:-1 group-logo="https://img.icons8.com/ios11/512/FFFFFF/github.png" group-title="Git" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1c/Sony_Movies_2019_%28Print%29.png/revision/latest?cb=20190917082854", Sony Movies
 http://xxip9.top:8080/live/Gizvid192@giz.com/1234@4321/2214.ts
 #EXTINF:-1 group-logo="https://i.ibb.co/tpYddsLq/pngimg-com-tv-PNG39259.png" group-title="All Working Channels" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png",Sony MAX SG 
