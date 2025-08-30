@@ -75,6 +75,12 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/509/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_key={"5cebda34393a4b20b0748445ba89e8c4":"2c125f88407aff752517ffc485436043"}
 https://v4-pan-m3-cdn-02.live.cdn.cgates.lt/live/dash/560401/index.mpd
 
+#EXTINF:-1 tvg-id="Cartoon.Net.Hd" group-title="KIDS NETWORKS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png",Cartoon Network 2
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ef57f7f3e8cf0efe4f3d5772a7cbb35:0ac6d617095fbe0ca7f4c9ae72fa5f51
+https://a190aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ampfzrmpam/out/v1/e08f3866c80040f2bc494cb48ebc7bce/cenc.mpd
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/H8ePRXC.png" group-title="Git2",Cartoon Network
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
